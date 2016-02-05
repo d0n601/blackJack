@@ -1,5 +1,8 @@
 # blackJack
-A black jack game I made to learn (some) C. You start off with a thousand dollars, make your bets however you please. A sample output of the compiled game below ... quit while you're ahead ;) 
+A black jack game I made to learn C programming. I originally developed this in 2010 as a final project for a school course.
+
+###Lowdown
+You start off with a thousand dollars, make your bets however you please. A sample output of the compiled game below ... quit while you're ahead ;) 
 
 
 ```
