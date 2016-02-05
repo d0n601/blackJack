@@ -2,7 +2,7 @@
 A black jack game I made to learn (some) C. You start off with a thousand dollars, make your bets however you please. A sample output of the compiled game below ... quit while you're ahead ;) 
 
 
-
+```
 x@warLab:~/Dev/$ ./blackJack.out
 
 
@@ -78,3 +78,4 @@ DEALER BUSTS!
 You Win!
 
 What amount would you like to bet?  Current bankroll is $1600
+```
